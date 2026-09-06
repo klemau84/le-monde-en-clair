@@ -1,0 +1,17 @@
+code,pays,drapeau,region,requete,capitale
+FR,France,🇫🇷,Europe,France,Paris
+ES,Espagne,🇪🇸,Europe,Espagne,Madrid
+IT,Italie,🇮🇹,Europe,Italie,Rome
+DE,Allemagne,🇩🇪,Europe,Allemagne,Berlin
+GB,Royaume-Uni,🇬🇧,Europe,Royaume-Uni,Londres
+UA,Ukraine,🇺🇦,Europe,Ukraine,Kiev
+RU,Russie,🇷🇺,Europe,Russie,Moscou
+US,États-Unis,🇺🇸,Amériques,États-Unis,Washington
+CA,Canada,🇨🇦,Amériques,Canada,Ottawa
+BR,Brésil,🇧🇷,Amériques,Brésil,Brasília
+CN,Chine,🇨🇳,Asie,Chine,Pékin
+IN,Inde,🇮🇳,Asie,Inde,New Delhi
+JP,Japon,🇯🇵,Asie,Japon,Tokyo
+IL,Israël,🇮🇱,Moyen-Orient,Israël,Jérusalem
+MA,Maroc,🇲🇦,Afrique,Maroc,Rabat
+

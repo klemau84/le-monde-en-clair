@@ -1,0 +1,10 @@
+LE MONDE EN CLAIR — V1
+
+Nouveau dépôt conseillé : le-monde-en-clair
+
+Copiez l'intégralité du contenu de ce ZIP à la racine du dépôt.
+Fichier principal Streamlit : app.py
+
+Commit conseillé :
+V1 - Tableau de bord mondial des actualites majeures
+
